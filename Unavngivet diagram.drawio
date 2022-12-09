@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T14:07:53.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.2" etag="MsQeAK4a4YGy9pEEB86V" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T18:45:21.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.6.2" etag="imC2sHbqOXZeqqxj6-Wl" type="github">
   <diagram id="KjgXaKl2gIKfC-z2WveC" name="Rutekort">
-    <mxGraphModel dx="5110" dy="2150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="4088" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,6 +535,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4660" y="4855" as="sourcePoint" />
             <mxPoint x="4570" y="4950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hqqRMv9_qPCl2O-zhf3N-121" value="" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;arcSize=10;fillOpacity=50;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqqRMv9_qPCl2O-zhf3N-42" target="hqqRMv9_qPCl2O-zhf3N-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4481.081081081081" y="5010" as="sourcePoint" />
+            <mxPoint x="4505.675675675676" y="5080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
